@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://mcdn.wallpapersafari.com/medium/31/94/t9AOiW.jpg); 
+  background: aqua;
   font-family: sans-serif ;
   border-style:groove white;
   padding: 30px;
@@ -34,6 +34,7 @@ body {
   background-color: white;
   padding: 10px;
   margin-top: 20px;
+  margin-left: 50%;
 }
 .select{
   background-color: yellow;
@@ -49,18 +50,21 @@ body {
   padding: 10px;
   margin-top: 60px;
   text-align:left;
+  margin-left: 50%;
 
 }
 .Information{
   background-color:white;
   padding: 10px;
   margin-top: 20px;
+  margin-right: 50%;
  
 }
 .Formation{
   background-color:white;
   padding: 10px;
   margin-top: 20px;
+  margin-left: 50%;
   
 }
 .sel{
@@ -88,16 +92,19 @@ body {
    background-color:white;
    padding: 10px;
    margin-top: 20px;
+   margin-left: 50%;
  }
  .Langues{
   background-color: white;
   padding: 10px;
   margin-top: 20px;
+  margin-right: 50%;
  }
 .dinteret{
   background-color: white;
   padding: 10px;
   margin-top: 20px;
+  margin-right: 50%;
  
   }
   .cinema{
