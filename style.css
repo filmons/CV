@@ -2,9 +2,8 @@ body {
   background:#54e346;
   font-family: sans-serif ;
   border-style:groove white;
-  padding: 30px;
-  padding-top: 100px;
-  margin:5px;
+  padding: 0%;
+  margin:O%;
   
 }
 
@@ -34,7 +33,7 @@ body {
   background-color: white;
   padding: 10px;
   margin-top: 20px;
-  margin-left: 50%;
+ 
 }
 .select{
   background-color: yellow;
@@ -50,21 +49,21 @@ body {
   padding: 10px;
   margin-top: 60px;
   text-align:left;
-  margin-left: 50%;
+  display: flex;
 
 }
 .Information{
   background-color:white;
   padding: 10px;
   margin-top: 20px;
-  margin-right: 50%;
- 
+  
+
 }
 .Formation{
   background-color:white;
   padding: 10px;
   margin-top: 20px;
-  margin-left: 50%;
+  
   
 }
 .sel{
@@ -92,19 +91,19 @@ body {
    background-color:white;
    padding: 10px;
    margin-top: 20px;
-   margin-left: 50%;
+   
  }
  .Langues{
   background-color: white;
   padding: 10px;
   margin-top: 20px;
-  margin-right: 50%;
+  
  }
 .dinteret{
   background-color: white;
   padding: 10px;
   margin-top: 20px;
-  margin-right: 50%;
+
  
   }
   .cinema{
